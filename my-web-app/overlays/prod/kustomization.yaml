@@ -1,3 +1,3 @@
 resources:
-- ../../base
+- /my-web-app/base
 namePrefix: prod-
