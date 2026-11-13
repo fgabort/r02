@@ -1,4 +1,4 @@
 kustomize:
   # Use a custom folder for kustomize resources. This folder must contain a
   # kustomization.yaml file.
-  dir: .
+  dir: /
